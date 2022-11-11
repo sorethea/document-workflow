@@ -1,0 +1,19 @@
+{
+    "name": "sorethea/workflow",
+    "description": "The simple workflow for your application.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sorethea\\Workflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sorethea OK",
+            "email": "sorethea@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
