@@ -1,11 +1,11 @@
 {
-    "name": "sorethea/workflow",
-    "description": "The simple workflow for your application.",
+    "name": "sorethea/document-workflow",
+    "description": "The simple document workflow for your application.",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sorethea\\Workflow\\": "src/"
+            "Sorethea\\DocumentWorkflow\\": "src/"
         }
     },
     "authors": [
